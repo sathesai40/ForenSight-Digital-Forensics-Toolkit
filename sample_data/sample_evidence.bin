@@ -1,0 +1,6 @@
+FORENSIGHT_SYNTHETIC_EVIDENCE_DUMP_V1
+Acquisition Source: host-sec01:/var/log/audit.slice
+Timestamp UTC: 2026-11-15T02:05:00Z
+Investigator: Lead Forensic Analyst
+Payload: 5365637572697479417564697444756d705665726966696564
+Integrity: Synthetic payload for validation testing.

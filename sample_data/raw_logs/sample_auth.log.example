@@ -1,0 +1,5 @@
+2026-11-15T01:14:02.000Z host-sec01 sshd[14221]: Failed password for invalid user root from 198.51.100.42 port 54312 ssh2
+2026-11-15T01:14:05.000Z host-sec01 sshd[14223]: Failed password for invalid user admin from 198.51.100.42 port 54314 ssh2
+2026-11-15T01:14:09.000Z host-sec01 sshd[14225]: Failed password for invalid user analyst from 198.51.100.42 port 54316 ssh2
+2026-11-15T01:15:22.000Z host-sec01 sshd[14230]: Accepted publickey for forensic_user from 192.0.2.15 port 55102 ssh2: RSA SHA256:7f8e...
+2026-11-15T01:16:01.000Z host-sec01 sudo: forensic_user : TTY=pts/0 ; PWD=/home/forensic_user ; USER=root ; COMMAND=/bin/journalctl -u ssh
